@@ -3,8 +3,10 @@
 
 ## 📌 Project Description
 <img width="1918" height="917" alt="Screenshot 2026-03-24 141300" src="https://github.com/user-attachments/assets/3af01f1b-d70c-4d45-9645-437f898cce3f" />
+<img width="1911" height="913" alt="Screenshot 2026-03-25 134833" src="https://github.com/user-attachments/assets/9be0a7c1-3f60-4e46-aa30-037de0ca3bda" />
 
 The Decentralized Quiz App is a blockchain-based application built on Stellar’s Soroban smart contract platform. It enables trustless, transparent, and tamper-proof quiz participation where questions, answers, and scores are stored on-chain.
+
 
 Unlike traditional quiz systems, this platform ensures fairness, eliminates manipulation, and provides verifiable results using decentralized infrastructure.
 
