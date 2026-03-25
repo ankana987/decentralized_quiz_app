@@ -12,7 +12,7 @@ interface ShimmerButtonProps
 }
 
 export function ShimmerButton({
-  shimmerColor = "#7c6cf0",
+  shimmerColor = "#ef9bd1ff",
   shimmerSize = "0.1em",
   shimmerDuration = "2.5s",
   borderRadius = "12px",
